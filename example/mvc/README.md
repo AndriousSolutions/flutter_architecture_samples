@@ -67,7 +67,8 @@ In turn, the class, Todo, is called by the class, TodoListModel. It mirrors the 
 
 Further information on the MVC package can be found in the article, [‘Flutter + MVC at Last!’](https://medium.com/p/275a0dc1e730/)
 [![online article](https://user-images.githubusercontent.com/32497443/47087365-c9524f80-d1e9-11e8-85e5-6c8bbabb18cc.png)](https://medium.com/flutter-community/flutter-mvc-at-last-275a0dc1e730)
-
+[![twitch](https://user-images.githubusercontent.com/32497443/49396600-97e50300-f707-11e8-9a7a-72cd7928eff9.png)
+](https://medium.com/@greg.perry/decode-flutter-6b60a3199e83)
 [Repository (GitHub)](https://github.com/AndriousSolutions/mvc_pattern)
 
 [API Docs](https://pub.dartlang.org/documentation/mvc_pattern/latest/mvc_pattern/mvc_pattern-library.html)
